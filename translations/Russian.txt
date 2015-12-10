@@ -1,0 +1,15 @@
+lmenu_portal=Главная
+lmenu_news=Новости
+lmenu_about=О нас
+lmenu_contact=Контакты
+lmenu_games=Игры
+lmenu_stuff=Разное
+lmenu_comics=Комиксы
+lmenu_links=Ссылки
+lmenu_community=Сообщество
+lmenu_search==Поиск / ЧАВО
+lmenu_rules=Правила
+lmenu_users=Пользователи
+lmenu_files=Файловый архив
+lmenu_forum=Форум
+tbar_welcome=Добро пожаловать на UnrealSoftware.de
