@@ -7,7 +7,7 @@ lmenu_stuff=Разное
 lmenu_comics=Комиксы
 lmenu_links=Ссылки
 lmenu_community=Сообщество
-lmenu_search==Поиск / ЧАВО
+lmenu_search=Поиск / ЧАВО
 lmenu_rules=Правила
 lmenu_users=Пользователи
 lmenu_files=Файловый архив
