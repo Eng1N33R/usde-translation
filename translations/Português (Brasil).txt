@@ -13,3 +13,4 @@ lmenu_users=Usuários
 lmenu_files=Banco de arquivos
 lmenu_forum=Fórum
 tbar_welcome=Bem-vindo ao UnrealSoftware.de
+cont_hi=Olá, %0!
