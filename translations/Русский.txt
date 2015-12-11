@@ -13,3 +13,4 @@ lmenu_users=Пользователи
 lmenu_files=Файловый архив
 lmenu_forum=Форум
 tbar_welcome=Добро пожаловать на UnrealSoftware.de
+cont_hi=Привет, %0!
